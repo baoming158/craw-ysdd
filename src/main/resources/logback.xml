@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <configuration>  
-    <property name="SYS_LOG_DIR" value="d:/logs" />  
+    <property name="SYS_LOG_DIR" value="${log_path}" />  
     <property name="LOG_FILE" value="ysdd.log" />  
     <property name="fileLayoutPattern"  
         value="%-20(%d{yyyyMMdd_HH:mm:ss.SSS} [%logger{10}][%thread] [%-4relative])  
