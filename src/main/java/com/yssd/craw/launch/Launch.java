@@ -43,4 +43,5 @@ public class Launch {
 			log.error("程序异常",e);
 		}
 	}
+
 }
